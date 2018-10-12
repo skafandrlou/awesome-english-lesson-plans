@@ -1,4 +1,4 @@
-# Speaking game
+# Speaking games
 
 *Speaking and listening activity*
 

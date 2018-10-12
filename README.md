@@ -1,7 +1,7 @@
 # Awesome English Lesson Plans
 A collection of lesson plans for busy teachers and students
 
-## Speaking game
+## Speaking games
 
 *Speaking and listening activity*
 
