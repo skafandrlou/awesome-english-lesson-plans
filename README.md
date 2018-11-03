@@ -6,6 +6,7 @@ A collection of lesson plans for busy teachers and students
 *Speaking and listening activity*
 
 - [HEADS UP Game](./Speaking%20games/HEADS%20UP%20Game/) - based on the game from Ellen DeGeneres. Level: A2-B2
+- [Superstitions](./Speaking%20games/Superstitions/) - Level: B1-C1
 
 ## Contribute
 

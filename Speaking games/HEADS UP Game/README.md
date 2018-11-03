@@ -1,12 +1,11 @@
 # HEADS UP Game [![pdf](https://img.shields.io/badge/download-brightgreen.svg)](./HandsUpGame.pdf)
-  
-| | |
-|-|-|
-| **Level**           |A2-B2       |
-| **Category**       | speaking games |
-|**Type**            | speaking and listening activity |
-|**Time**           | 30-40 min |
 
+|              |                                 |
+| ------------ | ------------------------------- |
+| **Level**    | A2-B2                           |
+| **Category** | speaking games                  |
+| **Type**     | speaking and listening activity |
+| **Time**     | 30-40 min                       |
 
 ## Plan
 
@@ -19,7 +18,7 @@ or any other similar show in their county.
 
 **4**. Play the video once or twice. For instance, [**Ellen's New Game, 'Heads Up!'**](https://www.youtube.com/watch?v=PO_ezpX7DwY)
 
-**5**. Let your students tell you about the rules and write them down if necessary. 
+**5**. Let your students tell you about the rules and write them down if necessary.
 
 **6**. Tell your students that you are going to play the same game. Give them the cards (included in [**PDF**](./HandsUpGame.pdf)). Every student should take one card, hold it above their heads. Others should try to explain what person their groupmates have.
 
